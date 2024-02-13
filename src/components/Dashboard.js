@@ -1,5 +1,5 @@
 import React from 'react'
-import SideBar from '../../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/SideBar'
+import SideBar from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/SideBar'
 
 const Dashboard = () => {
   return (

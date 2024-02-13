@@ -10,16 +10,16 @@ import UiPage1 from './UIPages/UiPage1';
 import UiPage2 from './UIPages/UiPage2';
 import SideBar from './UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/SideBar';
 import {Route, Routes } from 'react-router-dom';
-import Dashboard from './UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Dashboard'
-import Pages from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Pages'
-import Media from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Media'
-import Projects from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Projects'
-import Analytics from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Analytics'
-import Inbox from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Inbox'
-import Profile from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Profile'
-import Setting from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Setting'
-import Logout from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Logout'
-import StepsOnSideBarLi from '../src/sidebar-rndrngCmpntOfLiusngSteps&States/StepsOnSideBarLi';
+import Dashboard from './components/Dashboard'
+import Pages from './components/Pages'
+import Media from './components/Media'
+import Projects from './components/Projects'
+import Analytics from './components/Analytics'
+import Inbox from './components/Inbox'
+import Profile from './components/Profile'
+import Setting from './components/Setting'
+import Logout from './components/Logout'
+import StepsOnSideBarLi from './UIPages/sidebar-rndrngCmpntOfLiusngSteps&States/StepsOnSideBarLi';
 
 function App() {
 

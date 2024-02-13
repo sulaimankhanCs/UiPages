@@ -12,15 +12,15 @@ import { AiOutlineMail } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { AiOutlineSetting } from "react-icons/ai";
 import { AiOutlineLogout } from "react-icons/ai";
-import Dashboard from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Dashboard';
-import Inbox from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Inbox';
-import Profile from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Profile';
-import Projects from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Projects';
-import Setting from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Setting';
-import Media from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Media';
-import Analytics from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Analytics';
-import Pages from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Pages';
-import Logout from '../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Logout';
+import Dashboard from '../../components/Dashboard';
+import Inbox from '../../components/Inbox';
+import Profile from '../../components/Profile';
+import Projects from '../../components/Projects';
+import Setting from '../../components/Setting';
+import Media from '../../components/Media';
+import Analytics from '../../components/Analytics';
+import Pages from '../../components/Pages';
+import Logout from '../../components/Logout';
 
 
 const StepsOnSideBarLi = () => {
