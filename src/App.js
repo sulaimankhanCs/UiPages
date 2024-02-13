@@ -8,19 +8,18 @@ import { useState } from 'react';
 import ReactFlagsSelect from "react-flags-select";
 import UiPage1 from './UIPages/UiPage1';
 import UiPage2 from './UIPages/UiPage2';
-import SideBar from './UIPages/sidebar/SideBar';
+import SideBar from './UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/SideBar';
 import {Route, Routes } from 'react-router-dom';
-import Dashboard from './UIPages/sidebar/Dashboard'
-import Pages from '../src/UIPages/sidebar/Pages'
-import Media from '../src/UIPages/sidebar/Media'
-import Projects from '../src/UIPages/sidebar/Projects'
-import Analytics from '../src/UIPages/sidebar/Analytics'
-import Inbox from '../src/UIPages/sidebar/Inbox'
-import Profile from '../src/UIPages/sidebar/Profile'
-import Setting from '../src/UIPages/sidebar/Setting'
-import Logout from '../src/UIPages/sidebar/Logout'
-import StepsOnSideBarLi from './steps-on-sidebar-li/StepsOnSideBarLi';
-
+import Dashboard from './UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Dashboard'
+import Pages from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Pages'
+import Media from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Media'
+import Projects from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Projects'
+import Analytics from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Analytics'
+import Inbox from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Inbox'
+import Profile from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Profile'
+import Setting from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Setting'
+import Logout from '../src/UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/Logout'
+import StepsOnSideBarLi from '../src/sidebar-rndrngCmpntOfLiusngSteps&States/StepsOnSideBarLi';
 
 function App() {
 

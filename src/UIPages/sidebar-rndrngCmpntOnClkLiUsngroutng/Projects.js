@@ -1,6 +1,5 @@
 import React from 'react'
-import SideBar from '../sidebar/SideBar'
-
+import SideBar from '../../UIPages/sidebar-rndrngCmpntOnClkLiUsngroutng/SideBar'
 
 const Projects = () => {
   return (
